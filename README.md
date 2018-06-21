@@ -1,5 +1,9 @@
 # shell
 
+https://yq.aliyun.com/articles/491172?spm=5176.10695662.1996646101.searchclickresult.283070a698Xuxg
+
+
+
 1/ 文件
 
 touch file              # 创建空白文件
